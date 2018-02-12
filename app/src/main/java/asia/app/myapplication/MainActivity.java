@@ -11,6 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // First comit
         TextView tvFirstCommit = (TextView) findViewById(R.id.tvFirstCommit);
+
+        // Brand second
+        TextView tvBrandSecond = (TextView) findViewById(R.id.tvBrandSecond);
     }
 }
